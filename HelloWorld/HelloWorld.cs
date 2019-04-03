@@ -6,7 +6,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello");
+            Console.WriteLine("Hello fellow traveler");
             Console.WriteLine("My name is yousif.");
             Console.WriteLine("What is your name? ");
             String yourName = Console.ReadLine();
